@@ -8,7 +8,7 @@ and introduces a common process for starting exploratory data analysis projects.
 ## Deliverable Names
 - GitHub Repository:  **datafun-04-jupyter**
 - Documentation:      README.md
-- Notebook:           **yourname_eda.ipynb**
+- Notebook:           **bukola_eda.ipynb**
 ## External Dependencies
 
 - jupyterlab
