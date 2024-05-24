@@ -15,4 +15,13 @@ To classify the different species of the Iris plant based on the features.
 # Create GitHub Repository
  GitHub Repository: datafun-04-jupyter
  Documentation: README.md
- Notebook: anjana_eda.ipynb
+ Notebook: bukola_eda.ipynb
+
+ # Clone to VS Code
+  git clone site_URL
+
+ # Adding files
+. Add a .py file to work in.
+. Add a requirements.txt file to hold the required project modules.
+. Create a .venv to act as the virtual environment.
+. Include a .gitignore file to exclude the .venv file from the rest of the Python environment.
